@@ -1,0 +1,6 @@
+ibm-watson
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
